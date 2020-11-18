@@ -47,7 +47,7 @@ multipledispatch==0.6.0
 nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
-notebook==5.7.2
+notebook==6.1.5
 numba==0.41.0
 numpy==1.15.4
 packaging==18.0
